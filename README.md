@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Guillermo Canel
 
-<!--
-**GuilleCanel007/GuilleCanel007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Ingeniero en sistemas apasionado por el desarrollo web y la automatización.
 
-Here are some ideas to get you started:
+🔹 **Tecnologías que uso:**  
+- .NET Framework / VB.NET  
+- ASP.NET  
+- SQL Server  
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Actualmente aprendiendo **Laravel** y **Livewire**.
+
+
